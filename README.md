@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 🏂
 I'm Cliff, an experienced software engineer specializing in machine learning and data pipelines.
 
 - What I've been working on lately: a Kaggle challenge in my repository [kaggle-disaster-tweets](https://github.com/cliffplaysdrums/kaggle-disaster-tweets)
